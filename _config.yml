@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Personal Webpage"
+title                    : "Farhan's Webpage"
 title_separator          : "-"
 name                     : &name "Muhammad Farhan Ahmed"
 description              : &description "personal description"
@@ -27,7 +27,7 @@ author:
   name             : "Muhammad Farhan Ahmed"
   pronouns         : # example: "she/her"  
   bio              : "Ph.D Candidate interested in Multi-robot Active Localization and Mapping"
-  location         : #"Earth"
+  location         : "Nantes, France"
   employer         : "Ecole Centrale de Nantes (ECN)"
   uri              : # URL
   email            : "itsfarhan@outlook.com" 
