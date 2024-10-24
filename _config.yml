@@ -274,6 +274,14 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+  # _work
+  - scope:
+      path: ""
+      type: work
+    values:
+      layout: talk
+      author_profile: true
+      share: true
 
 
 
