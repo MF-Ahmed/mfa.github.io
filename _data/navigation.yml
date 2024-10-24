@@ -1,10 +1,6 @@
 # main links links
 main:
 
-  - title: "Work"
-    url: /work/
-    #url: https://scholar.google.com/citations?user=E3B5ikIAAAAJ&hl=en
-
   - title: "Publications"
     url: /publications/
     #url: https://scholar.google.com/citations?user=E3B5ikIAAAAJ&hl=en
